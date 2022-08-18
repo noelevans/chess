@@ -1,0 +1,13 @@
+[Event "Casual Game"]
+[Site "https://lichess.org"]
+[Date "18/08/2022, 21:01:02"]
+[White "Anonymous"]
+[Black "Anonymous"]
+[Result "*"]
+[PlyCount "9"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[Variant "Standard"]
+[Termination "?"]
+
+{ Daniel Naroditsky recommends this opening as a simple, thorough 1. d4 opening to start with }
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5
